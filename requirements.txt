@@ -57,7 +57,7 @@ tflite_runtime==2.14.0
 tflite_support==0.4.4
 thop==0.1.1.post2209072238
 torch==2.3.0
-torchvision==0.18.0
+torchvision==0.18.1
 tqdm==4.66.4
 tritonclient==2.46.0
 ultralytics_thop==0.2.7
