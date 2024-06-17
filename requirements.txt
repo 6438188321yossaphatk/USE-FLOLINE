@@ -19,7 +19,7 @@ ncnn==1.0.20240410
 nncf==2.10.0
 numpy==1.20.2
 numpy==1.23.0
-onnx==1.13.0
+onnx==1.16.1
 onnx2tf==1.22.4
 onnxruntime==1.13.1
 onnxslim==0.1.29
